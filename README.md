@@ -58,11 +58,11 @@
 
 
 
- There isn't a Pages site here, LOOK down ━━━┓
+ LOOK down ━━━┓
 				             ◹
 ```
 
-<!--
+
 # Bootstrap primjeri
 Prijedlog /ideja bootstrap mockup-a za Rimac mikro sajt
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/reemak/">Rimac micro site</a>
